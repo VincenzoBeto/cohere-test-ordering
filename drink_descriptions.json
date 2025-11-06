@@ -1,0 +1,71 @@
+{
+    "nitro milk tea": {
+        "Nitro OG": {
+            "taste": [
+                "classy",
+                "malt",
+                "cream"
+            ]
+        },
+        "Nitro Bae": {
+            "taste": [
+                "citrus",
+                "earl grey",
+                "bergamot"
+            ]
+        },
+        "Nitro Thai": {
+            "taste": [
+                "vanilla",
+                "cream",
+                "rich"
+            ]
+        }
+    },
+    "lemonade": {
+        "Classic Lemonade": {
+            "taste": [
+                "refreshing",
+                "sour",
+                "citrus"
+            ]
+        },
+        "Lavender Lemonade": {
+            "taste": [
+                "light",
+                "floral",
+                "refreshing"
+            ]
+        },
+        "Strawberry Hibiscus Lemonade": {
+            "taste": [
+                "fruity",
+                "refreshing",
+                "tropical"
+            ]
+        }
+    },
+    "matcha": {
+        "Matcha Milk Tea": {
+            "taste": [
+                "earthy",
+                "umami",
+                "smooth"
+            ]
+        },
+        "Red White Matcha": {
+            "taste": [
+                "fruity",
+                "refreshing",
+                "strawberry"
+            ]
+        },
+        "Matcha Ube": {
+            "taste": [
+                "earthy",
+                "complex",
+                "rich"
+            ]
+        }
+    }
+}
